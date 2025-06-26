@@ -52,7 +52,7 @@
 
 <div align="center">
 
-### 💌 **Love Letters Manager**
+### 💌 **Private Love Notes**
 *A modern, multi-platform application for managing romantic letters between couples*
 
 [![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MinAkira00/Private-Love-Notes)
